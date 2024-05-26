@@ -1,7 +1,7 @@
 Project Setup and Usage
 This document outlines the steps to set up and use the project.
 
-Prerequisites
+Prerequisites:-
 Node.js and npm installed
 MySQL installed and running
 
